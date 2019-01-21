@@ -1,5 +1,5 @@
 {
-  "name": "democracyos-notifier",
+  "name": "democracyos-notifier-pc",
   "version": "2.1.3-poitierscollectif",
   "description": "Notifications engine with job queuing and scheduling backed by MongoDB.",
   "main": "index.js",
